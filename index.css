@@ -103,14 +103,14 @@ body{
     width:594px ;
 }
 .section-title{
-        color: #181818;
+        color: #fdfafa;
         text-align: center;
         font-size: 40px;
         font-weight: 700;
         line-height: normal;
 }
 .section-description{
-    color: rgba(39, 39, 39, 0.60);
+    color: rgba(252, 245, 245, 0.6);
     font-size: 18px;
 }
 .img-section-bonous{
